@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Carslib", "Carslib\Carslib.csproj", "{87F8F0B9-87CF-4445-9D7E-ABD29F39FFFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutomobileProg", "AutomobileProg\AutomobileProg.csproj", "{FE520BBC-2464-4FE5-9AEC-EA8AEB948F19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsTest", "CarsTest\CarsTest.csproj", "{8F13067D-EC41-4F77-BFAC-A883306DC62B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87F8F0B9-87CF-4445-9D7E-ABD29F39FFFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F8F0B9-87CF-4445-9D7E-ABD29F39FFFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F8F0B9-87CF-4445-9D7E-ABD29F39FFFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F8F0B9-87CF-4445-9D7E-ABD29F39FFFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE520BBC-2464-4FE5-9AEC-EA8AEB948F19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE520BBC-2464-4FE5-9AEC-EA8AEB948F19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE520BBC-2464-4FE5-9AEC-EA8AEB948F19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE520BBC-2464-4FE5-9AEC-EA8AEB948F19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F13067D-EC41-4F77-BFAC-A883306DC62B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F13067D-EC41-4F77-BFAC-A883306DC62B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F13067D-EC41-4F77-BFAC-A883306DC62B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F13067D-EC41-4F77-BFAC-A883306DC62B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {31BE40D9-188A-4BE6-9922-4DDF67ED1857}
+	EndGlobalSection
+EndGlobal
